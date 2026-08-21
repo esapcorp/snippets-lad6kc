@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esapcorp.github.io/snippets-lad6kc/sitemap.xml
